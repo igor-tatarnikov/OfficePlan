@@ -1,0 +1,26 @@
+{
+  "name": "officeplan",
+  "version": "1.0.0",
+  "description": "Office Plan client app",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-tatarnikov/OfficePlan.git"
+  },
+  "keywords": [
+    "OfficePlan"
+  ],
+  "author": "Igor Tatarnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igor-tatarnikov/OfficePlan/issues"
+  },
+  "homepage": "https://github.com/igor-tatarnikov/OfficePlan#readme"
+}
